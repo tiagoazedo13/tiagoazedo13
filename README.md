@@ -18,7 +18,7 @@ I am skilled in operating systems installation and configuration, web server ins
                   ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                       <a href="https://www.dev.to/thiagocarr" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
