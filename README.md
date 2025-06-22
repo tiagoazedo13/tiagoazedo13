@@ -12,7 +12,7 @@ I am skilled in operating systems installation and configuration, web server ins
 * ✉️  You can contact me at [tiagoazedosuporte@gmail.com](mailto:tiagoazedosuporte@gmail.com)
 
 <a href="https://www.github.com/TiagoAzedo-IR" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TiagoAzedo-IR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/tiagoazedo13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
