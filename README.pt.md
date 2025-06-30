@@ -1,19 +1,19 @@
-Hi 👋 My name is Tiago Azedo
+Olá 👋 Chamo-me Tiago Azedo
 ============================
 
-IT Technician | Website Creator | Programmer
+Técnico de Informática | Criador de Websites | Programador
 --------------------------------------------
 
-Welcome to my corner of the web! I'm an IT professional with a passion for creating and problem-solving. My journey in technology has equipped me with a versatile skill set, allowing me to navigate various aspects of IT and software development.
+Bem-vindo ao meu canto da web! Sou um profissional de TI com paixão por criar e resolver problemas. A minha jornada na tecnologia equipou-me com um conjunto de competências versátil, permitindo-me navegar por vários aspetos de TI e desenvolvimento de software.
 
-I work with a wide range of programming languages including Python, HTML, C++, C, JavaScript, CSS, PHP, Java, CGI scripting, and style sheets. My expertise extends to database administration, including the installation and configuration of database management systems. I have a solid background in information systems analysis, computer internal architecture, hardware devices and peripherals, as well as network connections.
+Trabalho com uma vasta gama de linguagens de programação, incluindo Python, HTML, C++, C, JavaScript, CSS, PHP, Java, scripting CGI e folhas de estilo. A minha experiência estende-se à administração de bases de dados, incluindo a instalação e configuração de sistemas de gestão de bases de dados. Tenho uma sólida formação em análise de sistemas de informação, arquitetura interna de computadores, dispositivos de hardware e periféricos, bem como ligações de rede.
 
-Beyond software, I am skilled in operating systems installation and configuration, web server installation and administration, local network setup and management, and basic software installation. My technical foundation as an IT Systems Technician enables me to handle complex system environments and provide effective technical support.
+Para além do software, sou qualificado na instalação e configuração de sistemas operativos, instalação e administração de servidores web, configuração e gestão de redes locais e instalação de software básico. A minha formação técnica como Técnico de Sistemas de TI permite-me lidar com ambientes de sistemas complexos e fornecer suporte técnico eficaz.
 
-Let's connect and explore how we can innovate together!
+Vamos conectar-nos e explorar como podemos inovar juntos!
 
-* 🌍  I'm based in Portugal
-* ✉️  You can contact me at [tiagoazedosuporte@gmail.com](mailto:tiagoazedosuporte@gmail.com)
+* 🌍  Sou baseado em Portugal
+* ✉️  Pode contactar-me em [tiagoazedosuporte@gmail.com](mailto:tiagoazedosuporte@gmail.com)
 
 <a href="https://www.github.com/tiagoazedo13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tiagoazedo13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/thiagocarr_ofic" target="_blank" rel="noreferrer"><img
@@ -23,17 +23,17 @@ src="https://img.shields.io/twitch/status/thiagocarrytb?logo=twitchsx&style=for-
 
 ---
 
-### 🚀 Projects
+### 🚀 Projetos
 
-Here are a few highlights from my portfolio:
+Aqui estão alguns destaques do meu portefólio:
 
-*   **Project Alpha:** A web application built with Python and Django, designed to streamline data analysis for small businesses. ([Link to Project Alpha](http://example.com/project-alpha))
-*   **Project Beta:** An e-commerce platform developed using PHP and MySQL, featuring a custom-built CMS. ([Link to Project Beta](http://example.com/project-beta))
-*   **Project Gamma:** A mobile app for iOS and Android using Java and Swift, aimed at improving personal productivity. ([Link to Project Gamma](http://example.com/project-gamma))
+*   **Projeto Alpha:** Uma aplicação web construída com Python e Django, desenhada para otimizar a análise de dados para pequenas empresas. ([Link para o Projeto Alpha](http://example.com/project-alpha))
+*   **Projeto Beta:** Uma plataforma de e-commerce desenvolvida com PHP e MySQL, apresentando um CMS construído à medida. ([Link para o Projeto Beta](http://example.com/project-beta))
+*   **Projeto Gamma:** Uma aplicação móvel para iOS e Android usando Java e Swift, destinada a melhorar a produtividade pessoal. ([Link para o Projeto Gamma](http://example.com/project-gamma))
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Competências
 
 
 <p align="left">
@@ -41,21 +41,21 @@ Here are a few highlights from my portfolio:
 </p>
 
 
-### Socials
+### Redes Sociais
 
 <p align="left"> <a href="https://www.dev.to/thiagocarr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.github.com/tiagoazedo13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/tiagoazedo13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/tiagoazedo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.x.com/thiagocarr_ofic" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.youtube.com/@ThiagoCarr13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.twitch.tv/thiagocarrytb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a></p>
 
-### Badges
+### Medalhas
 
-<b>My GitHub Stats</b>
+<b>As Minhas Estatísticas do GitHub</b>
 
-<a href="http://www.github.com/tiagoazedo13"><img src="https://github-readme-stats.vercel.app/api?username=tiagoazedo13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tiagoazedo13's GitHub stats" /></a>
+<a href="http://www.github.com/tiagoazedo13"><img src="https://github-readme-stats.vercel.app/api?username=tiagoazedo13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de tiagoazedo13" /></a>
 
 <a href="http://www.github.com/tiagoazedo13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoazedo13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/tiagoazedo13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoazedo13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/tiagoazedo13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoazedo13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=pt-pt&custom_title=Principais%20Linguagens" alt="Principais Linguagens" /></a>
 
-### Support Me
+### Apoie-me
 
 <ul style="list-style-type: none; margin: 0;">
 
