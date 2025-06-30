@@ -49,7 +49,7 @@ src="https://img.shields.io/twitch/status/thiagocarrytb?logo=twitchsx&style=for-
 
 </ul>
 
-<h1>Versão Tuga</h1>
+Versão Tuga
 ============================
 Olá 👋 O meu nome é Tiago Azedo.
 ============================
