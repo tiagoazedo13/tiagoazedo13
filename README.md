@@ -48,8 +48,8 @@ src="https://img.shields.io/twitch/status/thiagocarrytb?logo=twitchsx&style=for-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/tiagoazedo"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-<div>
-Versão Tuga
+
+<h1>Versão Tuga</h1>
 ============================
 Olá 👋 O meu nome é Tiago Azedo.
 ============================
@@ -101,4 +101,3 @@ src="https://img.shields.io/twitch/status/thiagocarrytb?logo=twitchsx&style=for-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/tiagoazedo"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-</div>
